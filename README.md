@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ayesha Faeza</h1>
 
-<!--
-**ayeshafaeza-2427/ayeshafaeza-2427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🌱 First-Year CSE Student | 🤖 Aspiring AI Engineer | 🌟 GSSoC Ambassador
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Learning+AI+and+Python;Future+AI+Engineer;Open+Source+Explorer;Building+My+Tech+Journey&center=true&width=500&height=45">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🌸 About Me
+
+✨ First-year Computer Science student passionate about technology  
+✨ Exploring Python, AI, and Open Source  
+✨ Learning and building projects step by step  
+✨ Interested in Generative AI and creative tech  
+✨ GSSoC Ambassador 🚀  
+
+---
+
+# ⚡ Currently Learning
+
+- 🐍 Python Programming
+- 💻 Git & GitHub
+- 🌱 Open Source Contribution
+- 🧠 AI & Prompt Engineering Basics
+- 📚 Data Structures & Problem Solving
+
+---
