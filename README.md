@@ -57,8 +57,9 @@ Being a GSSoC'26 Ambassador 🌟 and a Google Student Ambassador ✨ has motivat
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayeshafaeza-2427E&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180em"/>
+  
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180em"/>
+  user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 <p align="center">
