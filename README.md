@@ -29,3 +29,12 @@
 - 📚 Data Structures & Problem Solving
 
 ---
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ayeshafaeza-2427&show_icons=true&theme=tokyonight" height="180em"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshafaeza-2427&theme=tokyonight" height="180em"/>
+</p>
