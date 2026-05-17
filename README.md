@@ -67,13 +67,7 @@ Being a GSSoC'26 Ambassador 🌟 and a Google Student Ambassador ✨ has motivat
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayeshafaeza-2427&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
