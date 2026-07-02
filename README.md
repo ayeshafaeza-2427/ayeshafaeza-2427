@@ -53,12 +53,6 @@ Being a GSSoC'26 Ambassador 🌟 and a Google Student Ambassador ✨ has motivat
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ayeshafaeza-2427&theme=radical" alt="GitHub Streak" />
-</p>
-
 ## 🌐 Connect With Me
 
 <p align="left">
